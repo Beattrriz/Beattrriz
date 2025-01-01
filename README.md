@@ -34,6 +34,7 @@
 ### <p align="center">Banco de Dados</p>
 <p align="center">
   <img alt="BIA-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img alt="BIA-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </p>
 
 ---
