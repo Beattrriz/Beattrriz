@@ -1,6 +1,6 @@
 # Oi! Eu sou a Bia! 👋
 
-🎓 Sou formada em **Engenharia da Computação** e apaixonada por tecnologia! Adoro aprender e compartilhar conhecimento, especialmente no desenvolvimento de soluções criativas e eficientes.
+🎓 Sou formada em **Engenharia da Computação** e apaixonada por tecnologia! Amo aprender e compartilhar conhecimento, especialmente no desenvolvimento de soluções criativas e eficientes.
 
 ---
 
